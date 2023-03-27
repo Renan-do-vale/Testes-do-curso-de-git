@@ -71,3 +71,4 @@ NUM | NOME | NOTA
 3 | Pedro | 7,0
 
 ***
+![imagem](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
